@@ -1,0 +1,47 @@
+{
+  "id": "trash-panda-dsn",
+  "title": "Trash Panda Dice So Nice Faces",
+  "description": "A raccoon / trash-panda themed dice set for Dice So Nice. Icon faces on a dumpster-green wrap, with clap and dumpster-dive special effects.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14.365"
+  },
+  "authors": [
+    {
+      "name": "mustacheride",
+      "url": "https://github.com/mustacheride"
+    }
+  ],
+  "esmodules": [
+    "scripts/trash-panda-dsn.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {
+          "minimum": "5.2.3",
+          "verified": "6.2.9"
+        }
+      }
+    ],
+    "recommends": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "7.12.2",
+          "verified": "8.4.0"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/mustacheride/trash-panda-dsn",
+  "manifest": "",
+  "download": "",
+  "readme": "README.md",
+  "bugs": "https://github.com/mustacheride/trash-panda-dsn/issues",
+  "changelog": ""
+}
